@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>CTools</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="WindowsBase">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/WindowsBase.dll</HintPath>
+    </Reference>
+    <Reference Include="AlphaFS" />
+    <Reference Include="Extreme.Net" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Core">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ookii.Dialogs.Wpf" />
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
