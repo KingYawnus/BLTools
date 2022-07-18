@@ -28,26 +28,26 @@ Works with Netscape logs. (lots of stealers)
 ![image](https://user-images.githubusercontent.com/104257061/179494037-4b2fa062-9ff5-428b-9737-0af3f0beaa8c.png)
 
 
-Youtube log example
+> Youtube log example
 ![image](https://user-images.githubusercontent.com/104257061/179494121-5f9357f1-d78f-4e35-852d-140fb9f5cfe6.png)
 
 
-Genshin log example
+> Genshin log example
 ![image](https://user-images.githubusercontent.com/104257061/179494196-5aa033ab-a734-483c-813d-6cab05298fee.png)
 
 
 
 ✅UPDATE v1.9
 * Fixed Instagram
-*Fixed little things in Youtube,Steam,Roblox
-*Amazon now checks not orders but transactions.
+* Fixed little things in Youtube,Steam,Roblox
+* Amazon now checks not orders but transactions.
 * Added BUFF163 (cookies must be fresh, because the session lives 10 days +-)
 * Added Minecraft check. (beta version, check for skins will also be added in the next update)
 * Added EpicGames check (balance, orders, code for checking for skins), in the next update we will send the check to the bot automatically.
 * Telegram sorting has been changed in file sorting. Now saves only the profile folder instead of the entire log.
-*Requests for check emails were previously only taken from Gmail. therefore Yahoo search did not work correctly. Fixed.
-*Changed the check links of Crypto wallets, previously not all checks.
-*More fixed all sorts of little things, I can’t even remember.
+* Requests for check emails were previously only taken from Gmail. therefore Yahoo search did not work correctly. Fixed.
+* Changed the check links of Crypto wallets, previously not all checks.
+* More fixed all sorts of little things, I can’t even remember.
 
 This is the first test update, soon there will be new services, they are already half ready, but I did not add them because they still work crookedly. Stake was removed, because it is not subject to fixing.
 I REPEAT, THIS IS A BETA VERSION, ESPECIALLY FOR EPIC AND MINECRAFT.
